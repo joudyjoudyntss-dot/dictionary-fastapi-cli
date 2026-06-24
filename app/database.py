@@ -8,7 +8,7 @@ word_db={
     2:{
         'id':2,
         'word':'api',
-        'def':'application programming interface',
+        'defenition':'application programming interface',
         'example':'fast api for build framworks'
     }
 }
